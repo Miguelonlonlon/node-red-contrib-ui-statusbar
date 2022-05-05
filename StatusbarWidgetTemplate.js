@@ -56,6 +56,7 @@ module.exports = function(RED) {
 		// may be there is a better way to include the scripts
 		const data = "<script id=\"sbManager\" type=\"text/javascript\" src=\"ui_statusbarwidget/js/sbManager.js\"></script>"+
 		"<script id=\"sbLed\" type=\"text/javascript\" src=\"ui_statusbarwidget/js/sbLed.js\"></script>"+
+		"<script id=\"sbTab\" type=\"text/javascript\" src=\"ui_statusbarwidget/js/sbTab.js\"></script>"+
 		"<script id=\"sbLed\" type=\"text/javascript\" src=\"ui_statusbarwidget/js/sbText.js\"></script>"+
 		"<script id=\"sbIcon\" type=\"text/javascript\" src=\"ui_statusbarwidget/js/sbIcon.js\"></script>";
 

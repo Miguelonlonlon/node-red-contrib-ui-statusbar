@@ -73,7 +73,7 @@ if (typeof nrStatusBar === 'undefined') {
                  
                  div[0].style.margin = '5px 5px 5px auto';
                  div[0].style.textAlign = 'right';
-                 div[0].style.height = '48px';
+                 div[0].style.height = '45px';
                  
                  // display:flex; flex-direction: row;
                  div[0].style.display = 'flex';
